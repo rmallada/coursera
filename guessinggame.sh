@@ -14,7 +14,6 @@ function adivine(){
             echo "Su respuesta es superior al valor correcto"
         else
             echo "Es el valor correcto, felicidades"
-            sleep 10
         break;
         fi
     done
